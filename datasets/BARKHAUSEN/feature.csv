@@ -1,4 +1,4 @@
-param
+file
 duration
 spectrum
 mean_frequency
@@ -45,3 +45,4 @@ psrcc
 plp
 rplp
 gfcc
+param
