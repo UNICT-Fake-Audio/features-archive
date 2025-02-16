@@ -1,5 +1,4 @@
 file
-duration
 spectrum
 mean_frequency
 peak_frequency
@@ -15,7 +14,6 @@ freqs_kurtosis
 spectral_entropy
 spectral_flatness
 spectral_centroid
-spectral_bandwidth
 spectral_spread
 spectral_rolloff
 energy
@@ -24,6 +22,7 @@ zcr
 spectral_mean
 spectral_rms
 spectral_std
+spectral_variance
 meanfun
 minfun
 maxfun
@@ -33,6 +32,7 @@ maxdom
 dfrange
 modindex
 bit_rate
+signal
 mfcc
 imfcc
 bfcc
